@@ -83,6 +83,6 @@ Este projeto consolidou os seguintes conhecimentos de programação e estruturas
 
 Yago Marques — Desenvolvedor em formação na PUC Minas.
 
-📌 GitHub: [github.com/yagoc0d]  
+📌 GitHub: [https://github.com/yagoc0d]  
 
 ---
